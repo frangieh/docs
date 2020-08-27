@@ -1,7 +1,7 @@
 # Test 1 page
 ## Commands
 
-![Alt text](img.png)
+![Alt text](../../binaries/img.png)
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
